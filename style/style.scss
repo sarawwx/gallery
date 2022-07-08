@@ -30,4 +30,5 @@ body {
 .header{
     display: flex;
     justify-content: space-between;
+    @include mixins.container
 }
