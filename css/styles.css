@@ -134,10 +134,10 @@
   .gallery #card-1:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/animais.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/1.jpg");
   }
   .gallery #card-2 {
-    background-image: url("../img/arquitetura.jpg");
+    background-image: url("../img/2.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -147,10 +147,10 @@
   .gallery #card-2:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/arquitetura.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/2.jpg");
   }
   .gallery #card-3 {
-    background-image: url("../img/cidade.jpg");
+    background-image: url("../img/3.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -160,10 +160,10 @@
   .gallery #card-3:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cidade.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/3.jpg");
   }
   .gallery #card-4 {
-    background-image: url("../img/decoracao.jpg");
+    background-image: url("../img/4.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -173,10 +173,10 @@
   .gallery #card-4:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/decoracao.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/4.jpg");
   }
   .gallery #card-5 {
-    background-image: url("../img/esportes.jpg");
+    background-image: url("../img/5.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -186,10 +186,10 @@
   .gallery #card-5:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/esportes.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/5.jpg");
   }
   .gallery #card-6 {
-    background-image: url("../img/natureza.jpg");
+    background-image: url("../img/6.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@
   .gallery #card-6:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/natureza.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/6.jpg");
   }
 
   footer {
