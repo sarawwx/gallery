@@ -51,10 +51,10 @@
     font-size: 0.8rem;
   }
   .header-navbar ul li .active {
-    color: #20C997;
+    color: #6c48fc;
   }
   .header-navbar ul li a:hover {
-    color: #20C997;
+    color: #6c48fc;
   }
   .header-social-media ul {
     display: flex;
@@ -124,7 +124,7 @@
     color: #000;
   }
   .gallery #card-1 {
-    background-image: url("../img/animais.jpg");
+    background-image: url("../img/1.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -201,53 +201,14 @@
     filter: grayscale(0%);
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/natureza.jpg");
   }
-  .gallery #card-7 {
-    background-image: url("../img/paisagem.jpg");
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    filter: grayscale(100%);
-    transition: 0.6s;
-  }
-  .gallery #card-7:hover {
-    background-size: 110%;
-    filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/paisagem.jpg");
-  }
-  .gallery #card-8 {
-    background-image: url("../img/pessoas.jpg");
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    filter: grayscale(100%);
-    transition: 0.6s;
-  }
-  .gallery #card-8:hover {
-    background-size: 110%;
-    filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/pessoas.jpg");
-  }
-  .gallery #card-9 {
-    background-image: url("../img/refeicoes.jpg");
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    filter: grayscale(100%);
-    transition: 0.6s;
-  }
-  .gallery #card-9:hover {
-    background-size: 110%;
-    filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/refeicoes.jpg");
-  }
-  
+
   footer {
     text-align: center;
     padding-bottom: 2rem;
   }
   footer span {
     font-weight: bold;
-    color: #20C997;
+    color: #6c48fc;
   }
   
   /*# sourceMappingURL=styles.css.map */
