@@ -51,10 +51,10 @@
     font-size: 0.8rem;
   }
   .header-navbar ul li .active {
-    color: #6c48fc;
+    color: #8A2BE2;
   }
   .header-navbar ul li a:hover {
-    color: #6c48fc;
+    color: #8A2BE2;
   }
   .header-social-media ul {
     display: flex;
@@ -208,7 +208,7 @@
   }
   footer span {
     font-weight: bold;
-    color: #6c48fc;
+    color: #8A2BE2;
   }
   
   /*# sourceMappingURL=styles.css.map */
